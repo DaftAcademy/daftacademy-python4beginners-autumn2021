@@ -1,11 +1,9 @@
 # daftacademy-python_4beginners-autumn2021
 
 ## Ważne linki
-Informacje organizacyjne:
-[https://www.facebook.com/events/xxx/](https://www.facebook.com/events/xxx/)
-
 Materiały z zajęć:
 [https://github.com/daftcode/daftacademy-python4beginners-autumn2021](https://github.com/daftcode/daftacademy-python4beginners-autumn2021)
+
 ## Kontakt
 [python@daftacademy.pl](python@daftacademy.pl)
 ## Przygotowanie środowiska pracy przed zajęciami
