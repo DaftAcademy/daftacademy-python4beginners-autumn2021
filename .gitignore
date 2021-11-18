@@ -1,0 +1,7 @@
+*.ipynb_checkpoints*
+*kody_obecnosci.txt
+*.pyc
+*.mp4
+*.m4a
+*.~lock.*
+*.venv
